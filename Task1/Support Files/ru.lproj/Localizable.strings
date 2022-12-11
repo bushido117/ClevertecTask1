@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Task1
+
+  Created by Вадим Сайко on 11.12.22.
+  
+*/
+"button_dark" = "Темная";
+"button_light" = "Светлая";
+"button_auto" = "Авто";
+"label_greetings" = "Привет";
+"language_english" = "Английский";
+"language_russian" = "Русский";
+"language_belarusian" = "Белорусский";
